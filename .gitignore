@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+body_models/
+dataset/HumanML3D/
+glove/
+t2m/
